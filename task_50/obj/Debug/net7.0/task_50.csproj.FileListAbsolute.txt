@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\bin\Debug\net7.0\task_50.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\bin\Debug\net7.0\task_50.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\bin\Debug\net7.0\task_50.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\bin\Debug\net7.0\task_50.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\bin\Debug\net7.0\task_50.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\refint\task_50.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\task_50.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\7_semi_domashka\task_50\obj\Debug\net7.0\ref\task_50.dll
